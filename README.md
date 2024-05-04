@@ -7,6 +7,6 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,svelte,react,kotlin,java,py,discordjs,nodejs,npm,docker,mongodb,mysql,gradle,maven,)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=StillLutto&theme=onedark&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=StillLutto&theme=onedark&hide_border=true&)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=StillLutto&theme=onedark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=StillLutto&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=StillLutto&theme=onedark&hide_border=true)

@@ -1,6 +1,8 @@
 <h1 align="center">👋 Welcome to my Profile! 👋</h1>
 
 # 💫 About Me:
+> Warning! This is old and not updated.
+
 🔭I'm currently working on Scheduler, a project going from html and css to eventually next.js. I'm also working on UpBlock, a minecraft plugin made to showcase my plugin abilities, and eventually, QuestUHC, which is my own spin at making a minecraft UHC gamemode.<br>📖I'm currently learning Java, Kotlin and expanding my web development skills.
 
 # 💻 Tech Stack:
